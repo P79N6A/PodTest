@@ -22,7 +22,7 @@ pod 'PodTest'
 
 ## Author
 
-wangjinbian, wangjinbian.123@bytedance.com
+wangjinbian
 
 ## License
 
